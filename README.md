@@ -18,14 +18,14 @@ This project has as a first instance a personal training, for my portfolio. Buil
 2 -When reloading a page, define a new movie suggestion for you, along with the genre, title, points, how many seasons, year the film was made or published and with a brief description, <br>
 3 - The list of films contains a simple auto scroll to the left and right.<br>
 
-**Cloning the Repository**
+**Cloning the Repository**  <br>
 $ git clone https://github.com/Ana204/Clone_Netflix.git
 
-**Installing dependencies**
+**Installing dependencies** <br>
 $ npm install or yard add
 
-### `Features`
+### `Features`  <br>
 - ⚛️ **React Js** — A JavaScript library for building user interfaces
 
-### `Getting started`
+### `Getting started`  <br>
 $ npm start or yarn start
